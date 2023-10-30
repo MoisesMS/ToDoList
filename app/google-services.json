@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1041796047251",
+    "project_id": "todolist-f03f0",
+    "storage_bucket": "todolist-f03f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041796047251:android:1f8eca1c8f155029b7c866",
+        "android_client_info": {
+          "package_name": "com.rusker.practicarecyclerview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5Dsjt13Kgr8ZKWHjusTWiodEPXdJsO34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
